@@ -64,77 +64,39 @@ Synchronizes spoken audio or text-to-speech with realistic mouth movements, maki
     <tbody>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/2ff3fd6e-459e-4161-8349-7c4f0d3b8f0b" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/92e42eda-cacd-4545-b6d1-68c384d17bd1" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/b1912b7f-eeac-428a-8233-285523f2a8b9" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/114437ea-d844-42d4-843e-2cffbad14a35" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/71d01f68-a05e-4076-aea9-32f2b8b8cbfa" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-               <video src=" " controls preload>
+               <video src="https://github.com/user-attachments/assets/8ecfed71-6620-442d-b474-3363f77f6c0a" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td width="50%">
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td width="50%"></td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td width="50%">
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td width="50%">
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%">
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td width="50%"></td>
         </tr>
     </tbody>
 </table>
